@@ -1,7 +1,7 @@
 # Личный проект «TaskForce»
 
 * Студент: [Светлана Дудникова](https://up.htmlacademy.ru/yii/1/user/1363181).
-* Наставник: [Гоша Баранов](https://htmlacademy.ru/profile/id1206549).
+* Наставник: [Георгий Баранов](https://htmlacademy.ru/profile/id1206549).
 
 ---
 
